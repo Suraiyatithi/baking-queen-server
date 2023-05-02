@@ -9,11 +9,11 @@ const chef = require('./data/chef.json');
 app.use(cors());
 
 app.get('/', (req, res) => {
-    res.send('Dragon is running')
+    res.send('Chef is running')
 });
 
-app.get('/categories', (req, res) => {
-    res.send(categories);
+app.get('/chef', (req, res) => {
+    res.send(chef);
 })
 
 
@@ -27,5 +27,5 @@ app.get('/chef/:id', (req, res) => {
 
 
 app.listen(port, () => {
-    console.log(`Dragon API is running on port: ${port}`)
+    console.log(`Chef API is running on port: ${port}`)
 })
