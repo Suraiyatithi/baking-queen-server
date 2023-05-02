@@ -18,11 +18,11 @@ app.get('/categories', (req, res) => {
 
 
 
-// app.get('/chef/:id', (req, res) => {
-//     const id = req.params.id;
-//     const selectedNews = news.find(n => n.id === id);
-//     res.send(selectedNews)
-// })
+app.get('/chef/:id', (req, res) => {
+    const id = req.params.id;
+    const selectedNews = news.find(n => n.id === id);
+    res.send(selectedNews)
+})
 
 
 
