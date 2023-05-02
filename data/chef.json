@@ -1,0 +1,129 @@
+[
+    {
+      "id": 1,
+      "chef_name": "John Smith",
+      "chef_photo": "https://example.com/john-smith.jpg",
+      "experience": 5,
+      "chef_description": "John Smith is a passionate chef with a focus on creating healthy and delicious meals.",
+      "number_of_recipes": 10,
+      "likes": 100,
+      "recipes": [
+        {
+          "recipe_photo": "https://example.com/recipe-1.jpg",
+          "recipe_name": "Grilled Salmon",
+          "recipe_description": "This grilled salmon recipe is simple yet flavorful. It's perfect for a quick and healthy dinner."
+        },
+        {
+          "recipe_photo": "https://example.com/recipe-2.jpg",
+          "recipe_name": "Mushroom Risotto",
+          "recipe_description": "This creamy mushroom risotto recipe is a classic comfort food. It's easy to make and perfect for a cozy night in."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "chef_name": "Jane Doe",
+      "chef_photo": "https://example.com/jane-doe.jpg",
+     " experience": 10,
+      "chef_description": "Jane Doe is a world-renowned chef with a Michelin-starred restaurant.",
+      "number_of_recipes": 20,
+      "likes": 500,
+      "recipes": [
+        {
+          "recipe_photo": "https://example.com/recipe-3.jpg",
+          "recipe_name": "Beef Wellington",
+          "recipe_description": "This classic beef wellington recipe is a showstopper. It's perfect for a special occasion or holiday dinner."
+        },
+        {
+          "recipe_photo": "https://example.com/recipe-4.jpg",
+          "recipe_name": "Lobster Bisque",
+          "recipe_description": "This rich and creamy lobster bisque recipe is a decadent treat. It's perfect for a fancy dinner party."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "chef_name": "Maria Rodriguez",
+      "chef_photo": "https://example.com/maria-rodriguez.jpg",
+      "experience": 8,
+      "chef_description": "Maria Rodriguez is a master of Mexican cuisine. She loves to share her family recipes with the world.",
+      "number_of_recipes": 15,
+      "likes": 300,
+      "recipes": [
+        {
+          "recipe_photo": "https://example.com/recipe-5.jpg",
+          "recipe_name": "Chicken Enchiladas",
+          "recipe_description": "This classic chicken enchiladas recipe is a crowd-pleaser. It's perfect for a family dinner or party."
+        },
+        {
+          "recipe_photo": "https://example.com/recipe-6.jpg",
+         " recipe_name": "Guacamole",
+          "recipe_description": "This guacamole recipe is simple yet delicious. It's perfect as a dip or topping for tacos."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "chef_name": "David Kim",
+      "chef_photo": "https://example.com/david-kim.jpg",
+     " experience": 6,
+      "chef_description": "David Kim is a Korean-American chef who loves to fuse Korean and American flavors in his dishes.",
+      "number_of_recipes": 12,
+      "likes": 200,
+      "recipes": [
+        {
+          "recipe_photo": "https://example.com/recipe-7.jpg",
+          "recipe_name": "Korean Fried Chicken",
+          "recipe_description": "This Korean fried chicken recipe is crispy and flavorful. It's perfect as a snack or main dish."
+        },
+        {
+          "recipe_photo": "https://example.com/recipe-8.jpg",
+          "recipe_name":  "Kimchi Fried Rice",
+          "recipe_description": "This kimchi fried rice recipe is a popular Korean dish. It's easy to make and packed with flavor."
+        }
+      ]
+    },
+    {
+    "id": 5,
+    "chef_name": "Alexandra Smith",
+    "chef_photo": "https://example.com/alexandra-smith.jpg",
+    "experience": 3,
+    "chef_description": "Alexandra Smith is a pastry chef who specializes in creating beautiful and delicious desserts.",
+    "number_of_recipes": 8,
+    "likes": 150,
+    "recipes": [
+    {
+    "recipe_photo": "https://example.com/recipe-9.jpg",
+    "recipe_name": "Chocolate Cake",
+    "recipe_description": "This chocolate cake recipe is rich and decadent. It's perfect for a special occasion or just as a treat."
+    },
+    {
+    "recipe_photo": "https://example.com/recipe-10.jpg",
+    "recipe_name": "Strawberry Shortcake",
+    "recipe_description": "This strawberry shortcake recipe is light and refreshing. It's perfect for a summer dessert."
+    }
+    ]
+    },
+    {
+    "id": 6,
+    "chef_name": "Thomas Brown",
+    "chef_photo": "https://example.com/thomas-brown.jpg",
+    "experience": 4,
+    "chef_description": "Thomas Brown is a BBQ master who loves to experiment with different flavors and techniques.",
+    "number_of_recipes": 10,
+    "likes": 250,
+    "recipes": [
+    {
+    "recipe_photo": "https://example.com/recipe-11.jpg",
+   "recipe_name": "Pulled Pork",
+    "recipe_description": "This pulled pork recipe is slow-cooked to perfection. It's perfect for a backyard BBQ."
+    },
+    {
+    "recipe_photo": "https://example.com/recipe-12.jpg",
+    "recipe_name": "Smoked Brisket",
+    "recipe_description": "This smoked brisket recipe is tender and flavorful. It's perfect for a hearty dinner."
+    }
+    ]
+    }
+    ]      
+  
