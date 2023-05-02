@@ -18,23 +18,13 @@ app.get('/categories', (req, res) => {
 
 
 
-app.get('/chef/:id', (req, res) => {
-    const id = req.params.id;
-    const selectedNews = news.find(n => n.id === id);
-    res.send(selectedNews)
-})
-
-// app.get('/categories/:id', (req, res) => {
-//     const id = parseInt(req.params.id);
-//     if (id === 0) {
-//         res.send(news)
-//     }
-//     else {
-//         const categoryNews = news.filter(n => parseInt(n.category_id) === id);
-//         res.send(categoryNews)
-//     }
-
+// app.get('/chef/:id', (req, res) => {
+//     const id = req.params.id;
+//     const selectedNews = news.find(n => n.id === id);
+//     res.send(selectedNews)
 // })
+
+
 
 app.listen(port, () => {
     console.log(`Dragon API is running on port: ${port}`)
