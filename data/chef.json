@@ -1,10 +1,10 @@
 [
     {
       "id": "1",
-      "chef_name": "Johnia Smithi",
+      "chef_name": "Johnia Sithi",
       "chef_photo": "https://thumbs.dreamstime.com/z/chef-woman-decorating-delicious-food-portrait-young-indian-kitchen-67073315.jpg",
       "experience": 5,
-      "chef_description": "Johnis Smithi is a passionate chef with a focus on creating healthy and delicious meals.",
+      "chef_description": "Johnia Sithi is a passionate chef with a focus on creating healthy and delicious meals.",
       "number_of_recipes": 10,
       "likes": 100,
       "recipes": [
@@ -48,10 +48,10 @@
     },
     {
       "id":"2",
-      "chef_name": "Jane Doe",
+      "chef_name": "Jinia Doly",
       "chef_photo": "https://thumbs.dreamstime.com/z/pretty-indian-woman-cooking-portrait-kitchen-wearing-uniform-chef-66642081.jpg",
      " experience": 10,
-      "chef_description": "Jane Doe is a world-renowned chef with a Michelin-starred restaurant.",
+      "chef_description": "Jinia Doly is a world-renowned chef with a Michelin-starred restaurant.",
       "number_of_recipes": 20,
       "likes": 500,
       "recipes": [
@@ -94,20 +94,23 @@
           "recipe_photo": "https://thumbs.dreamstime.com/z/chicken-curry-indian-dish-red-41886564.jpg",
           "recipe_name": "Chicken Roast",
           "rating":"4",
-          "recipe_description": "This classic chicken enchiladas recipe is a crowd-pleaser. It's perfect for a family dinner or party."
+          "ingridant":["1kg of Chicken","chicken masala","onion","1 cup of oil","Chilli"],
+          "recipe_description": "This classic chicken enchiladas recipe is a crowd-pleaser.First of all mixed the masala with the chicken and keep it for 2 hours to marinate the chicken.Then add some oil in the pen ,After adding the oil marinated chicken must need to add their.cook it for 20 min Your food is ready to eat. It's perfect for a family dinner or party."
         },
         {
           "recipe_photo": "https://thumbs.dreamstime.com/z/hot-spicy-chicken-tikka-masala-bowl-curry-rice-indian-naan-butter-bread-spices-herbs-traditional-indian-british-89956749.jpg",
          " recipe_name": "boild rice with chicken",
          "rating":"4",
-          " recipe_description": "This guacamole recipe is simple yet delicious. It's perfect as a dip or topping for tacos."
-        },
+         "ingridant":["half kg of rice","1kg of Chicken","chicken masala","onion","1 cup of oil","Chilli"],
+         "recipe_description": "This classic boild rice and Chicken enchiladas recipe is a crowd-pleaser.First of all mixed the masala with the chicken and keep it for 2 hours to marinate the chicken.Then add some oil in the pen ,After adding the oil marinated chicken must need to add their.cook it for 20 min Your food is ready to eat. It's perfect for a family dinner or party."
+      },
         {
             "recipe_photo": "https://thumbs.dreamstime.com/z/homemade-indian-mutton-dum-biriyani-delicious-lamb-over-wooden-background-88552519.jpg",
             "recipe_name": "Basmoti Kacchi",
             "rating":"5",
-            "recipe_description": "This chocolate cake recipe is rich and decadent. It's perfect for a special occasion or just as a treat."
-            },
+            "ingridant":["3 cup water","Chilli","Basmoti Rice","half kg beef","Sauce"],
+            "recipe_description": "To Cook this First you need to Boil the Basmati rice .After boiling the rice Cook the Beef for the kacchi ,rememner the Beef peice mjust be in large size.After cooking the beef nicely you must organize the rise and the beef together and put it on fire for some times"
+           },
         {
             "recipe_photo": "https://thumbs.dreamstime.com/z/indian-food-1962643.jpg",
             "recipe_name": "Grill None",
@@ -129,20 +132,32 @@
           "recipe_photo": "https://thumbs.dreamstime.com/z/shahi-khashir-kacchi-biryani-beef-pulao-biriyani-potato-red-chilli-served-dish-isolated-grey-background-top-view-274360160.jpg",
           "recipe_name": "Muton Kacchi",
           "rating":"4",
-          "recipe_description": "This Korean fried chicken recipe is crispy and flavorful. It's perfect as a snack or main dish."
-        },
+          "ingridant":["3 cup water","Chilli","Basmoti Rice","half kg beef","Sauce"],
+          "recipe_description": "To Cook this First you need to Boil the Basmati rice .After boiling the rice Cook the Beef for the kacchi ,rememner the Beef peice mjust be in large size.After cooking the beef nicely you must organize the rise and the beef together and put it on fire for some times"
+          },
         {
             "recipe_photo": "https://thumbs.dreamstime.com/z/fuska-delicious-bengali-snack-wooden-table-33417851.jpg",
            "recipe_name": "Bangladeshi Speacial Fuchka",
            "rating":"3",
-            "recipe_description": "This pulled pork recipe is slow-cooked to perfection. It's perfect for a backyard BBQ."
-            },
+           "ingridant":["Puri",
+
+           "1 cup unroasted semolina",
+           
+           "¼ cup all-purpose flour",
+           
+           "1/3 cup water",
+           
+           
+           "Sauce"],
+            "recipe_description": "Frist of All mixed All the recipes ,After mixing all the ingrident you must need put the past of the ingrident on the puri and after this ,You can Eat with turmic water,or tomato chressup"
+        },
         {
           "recipe_photo": "https://thumbs.dreamstime.com/z/indian-chicken-tikka-biriyani-curry-dinner-33624623.jpg",
           "recipe_name":  "Chicken biriani",
           "rating":"3",
-          "recipe_description": "This kimchi fried rice recipe is a popular Korean dish. It's easy to make and packed with flavor."
-        }
+          "ingridant":["half kg of rice","1kg of Chicken","chicken masala","onion","1 cup of oil","Chilli"],
+         "recipe_description": "This classic boild rice and Chicken enchiladas recipe is a crowd-pleaser.First of all mixed the masala with the chicken and keep it for 2 hours to marinate the chicken.Then add some oil in the pen ,After adding the oil marinated chicken must need to add their.cook it for 20 min Your food is ready to eat. It's perfect for a family dinner or party."
+      }
       ]
     },
     {
@@ -158,8 +173,9 @@
     "recipe_photo": "https://thumbs.dreamstime.com/z/homemade-indian-mutton-dum-biriyani-delicious-lamb-over-wooden-background-88552519.jpg",
     "recipe_name": "Basmoti Kacchi",
     "rating":"4",
-    "recipe_description": "This chocolate cake recipe is rich and decadent. It's perfect for a special occasion or just as a treat."
-    },
+    "ingridant":["3 cup water","Chilli","Basmoti Rice","half kg beef","Sauce"],
+            "recipe_description": "To Cook this First you need to Boil the Basmati rice .After boiling the rice Cook the Beef for the kacchi ,rememner the Beef peice mjust be in large size.After cooking the beef nicely you must organize the rise and the beef together and put it on fire for some times"
+           },
     {
         "recipe_photo": "https://thumbs.dreamstime.com/z/fuska-delicious-bengali-snack-wooden-table-33417851.jpg",
        "recipe_name": "Bangladeshi Speacial Fuchka",
@@ -219,8 +235,9 @@
     "recipe_photo": "https://thumbs.dreamstime.com/z/chicken-biriyani-yogurt-dip-side-hot-spicy-made-basmati-rice-very-popular-food-india-asia-arabia-71059326.jpg",
     "recipe_name": "Chicken biriyani with with yogurt dip on side",
     "rating":"4",
-    "recipe_description": "This smoked brisket recipe is tender and flavorful. It's perfect for a hearty dinner."
-    },{
+    "ingridant":["half kg of rice","1kg of Chicken","chicken masala","onion","1 cup of oil","Chilli"],
+    "recipe_description": "This classic boild rice and Chicken enchiladas recipe is a crowd-pleaser.First of all mixed the masala with the chicken and keep it for 2 hours to marinate the chicken.Then add some oil in the pen ,After adding the oil marinated chicken must need to add their.cook it for 20 min Your food is ready to eat. It's perfect for a family dinner or party."
+ },{
         "recipe_photo": "https://thumbs.dreamstime.com/z/kabab-grilled-onion-skewers-fries-salad-crouton-47489041.jpg",
         "recipe_name": "Beef Kabab",
         "rating":"4",
